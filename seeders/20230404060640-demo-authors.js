@@ -12,13 +12,13 @@ module.exports = {
       }]),
       queryInterface.bulkInsert('Authors', [{
         name:'Patrick Beach',
-        author_id: 2,
+        author_id: 3,
         createdAt: new Date(),
         updatedAt: new Date()
       }]),
       queryInterface.bulkInsert('Authors', [{
         name:'MacKenzie Miller',
-        author_id: 3,
+        author_id: 1,
         createdAt: new Date(),
         updatedAt: new Date()
       }]),
